@@ -36,7 +36,18 @@
 
 ---
 
+### ⚡ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white)
+
+---
+
 ## 📫 Let's Connect
-- 🌐 [GitHub Profile](https://github.com/iqbalf203)  
-- 💼 [LinkedIn](https://linkedin.com) *(add your link here)*  
-- ✉️ Reach me at **your.email@example.com**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/faisal-iqbal)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/iqbalf203)  
