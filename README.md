@@ -31,7 +31,7 @@ Instead of a boring contribution calendar, here’s my **commit constellation**:
 
 ### 🔭 Current Projects
 - Automating CI/CD pipelines with Render  
-- Full-stack applications integrating AI APIs  
+- Full-stack applications  
 - Converting legacy Angular apps to React  
 - Optimizing project architecture for scalability  
 
@@ -44,7 +44,11 @@ Instead of a boring contribution calendar, here’s my **commit constellation**:
 ---
 
 ### 📊 GitHub Stats
-![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbalf203&show_icons=true&theme=radical)
+![Faisal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iqbalf203&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalf203&layout=compact&theme=radical)
+
+### 🚀 Deployment Status
+![My App Status](https://api.render.com/v1/badges/<SERVICE_ID>/service/<SERVICE_NAME>/status)
 
 ---
 
