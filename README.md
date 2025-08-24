@@ -1,46 +1,64 @@
 # 👋 Hi, I'm Faisal Iqbal
 
-🚀 Full-Stack Developer | JS | Node | Python | Java | Deployment Enthusiast
+🚀 **Full-Stack Developer | JS | Node | Python | Java | Deployment Enthusiast**
 
 ---
 
 ### About Me
 I build scalable apps, automate deployments, and love to see code come alive.  
 - 💻 **Languages:** JavaScript, Python, Java  
-- ⚙️ **Backend:** Node.js, Express, APIs  
+- ⚙️ **Backend:** Node.js, Express, REST & GraphQL APIs  
 - 🌐 **Frontend:** React, Angular  
 - ☁️ **Deployment:** Render pipelines, CI/CD  
 - 🛠️ **Tools:** Git, Docker, Prisma, NextAuth, Tailwind CSS  
+- 🎯 **Focus:** Clean code, automation, and scalable architectures  
 
 ---
 
 ### 🌌 My GitHub Activity: Starfield Edition
 Instead of a boring contribution calendar, here’s my **commit constellation**:  
 
-![Starfield GitHub Activity](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/starfield.gif)
+![Starfield GitHub Activity](https://raw.githubusercontent.com/iqbalf203/iqbalf203/main/starfield.gif)
 
-*(This GIF can be generated using your commit data or just a fun animation to represent activity.)*
+*(This animated GIF represents commits as stars lighting up like a constellation.)*
 
 ---
 
-### 🎨 Fun Animated Badge
-![Faisal Coding](https://c.tenor.com/EXAMPLE.gif)  
-*(You can replace this with any GIF that represents coding, deployments, or even a rocket animation.)*
+### 🎨 Animated Coding Badge
+![Faisal Coding](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ---
 
 ### 🔭 Current Projects
-- Automating deployments and CI/CD pipelines  
-- Full-stack apps with AI integration  
-- Optimizing architecture for scalability  
+- Automating CI/CD pipelines with Render  
+- Full-stack applications integrating AI APIs  
+- Converting legacy Angular apps to React  
+- Optimizing project architecture for scalability  
 
 ---
 
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/faisal-iqbal)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/YOUR_TWITTER)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/iqbalf203)  
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbalf203&show_icons=true&theme=radical)
+
+---
+
+### ⚡ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white)
+
+---
+
+### 🌟 Fun Fact
+I like to visualize code contributions in **creative ways** — stars, constellations, rockets, and patterns — instead of boring calendars. 🌌
