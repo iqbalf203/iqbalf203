@@ -27,7 +27,7 @@
 ---
 
 ## 🚀 Deployment Status
-![My App Status](https://render.com/static/status-badges/srv-d2ks3vbipnbc73fha7kg/deploy-status.svg)  
+[![Deploy Services to Render](https://github.com/iqbalf203/CAS-Project/actions/workflows/deploy.yml/badge.svg)](https://github.com/iqbalf203/CAS-Project/actions/workflows/deploy.yml)
 
 ---
 
