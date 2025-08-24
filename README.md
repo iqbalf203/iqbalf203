@@ -27,7 +27,7 @@
 ---
 
 ## 🚀 Deployment Status
-![My App Status](https://api.render.com/v1/badges/srv-d2ks3vbipnbc73fha7kg/service/city-admin/status)  
+![My App Status](https://render.com/static/status-badges/srv-d2ks3vbipnbc73fha7kg/deploy-status.svg)  
 
 ---
 
@@ -44,5 +44,5 @@
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/faisal-iqbal)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/faisal-iqbal-046780aa)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/iqbalf203)  
