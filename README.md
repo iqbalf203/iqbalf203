@@ -26,18 +26,8 @@
 
 ---
 
-## 🌌 Commit Universe
-![Lofi Coding](https://i.imgur.com/ybL8m8Y.gif)
-![Globe](https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg)
-![Neon Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
-![Music Visualizer](https://raw.githubusercontent.com/iqbalf203/iqbalf203/main/assets/music-visualizer.gif)
-
-
-
----
-
 ## 🚀 Deployment Status
-![My App Status](https://api.render.com/v1/badges/<SERVICE_ID>/service/<SERVICE_NAME>/status)  
+![My App Status](https://api.render.com/v1/badges/srv-d2ks3vbipnbc73fha7kg/service/city-admin/status)  
 
 ---
 
