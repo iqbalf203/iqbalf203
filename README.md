@@ -27,8 +27,11 @@
 ---
 
 ## 🌌 Commit Universe
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F7006E&lines=Full-stack+Developer;Render+Pipeline+Enthusiast;Clean+Code+Advocate;Always+Learning)](https://git.io/typing-svg)
-![divider](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+![Lofi Coding](https://i.imgur.com/ybL8m8Y.gif)
+![Globe](https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg)
+![Neon Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
+![Music Visualizer](https://raw.githubusercontent.com/iqbalf203/iqbalf203/main/assets/music-visualizer.gif)
+
 
 
 ---
