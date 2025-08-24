@@ -27,7 +27,9 @@
 ---
 
 ## 🌌 Commit Universe
-![Faisal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iqbalf203&theme=react-dark&bg_color=0d1117&hide_border=true)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F7006E&lines=Full-stack+Developer;Render+Pipeline+Enthusiast;Clean+Code+Advocate;Always+Learning)](https://git.io/typing-svg)
+![divider](https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png)
+
 
 ---
 
