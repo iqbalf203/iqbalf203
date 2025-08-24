@@ -27,7 +27,11 @@
 ---
 
 ## 🚀 Deployment Status
-[![Deploy Services to Render](https://github.com/iqbalf203/CAS-Project/actions/workflows/deploy.yml/badge.svg)](https://github.com/iqbalf203/CAS-Project/actions/workflows/deploy.yml)
+[![MYAPP Deploy](https://github.com/iqbalf203/CAS-Project/actions/workflows/deploy-myapp.yml/badge.svg)](https://github.com/iqbalf203/CAS-Project/actions/workflows/deploy-myapp.yml)
+
+[![USER Deploy](https://github.com/iqbalf203/CAS-Project/actions/workflows/deploy-user.yml/badge.svg)](https://github.com/iqbalf203/CAS-Project/actions/workflows/deploy-user.yml)
+
+[![ADMIN-SPRING Deploy](https://github.com/iqbalf203/CAS-Project/actions/workflows/deploy-admin.yml/badge.svg)](https://github.com/iqbalf203/CAS-Project/actions/workflows/deploy-admin.yml)
 
 ---
 
